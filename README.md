@@ -28,16 +28,7 @@ Mon GitHub : [github.com/Louis-Verbrugge](https://github.com/Louis-Verbrugge)
 
 - Conception et optimisation de systèmes techniques  
 - Développement de solutions applicatives pour des besoins industriels  
-- Recherche de solutions simples et robustes à des problématiques complexes  
-- Structuration de la documentation pour faciliter la collaboration
-
----
-
-### Projets et travaux en cours
-
-- Développement d'outils et de scripts pour automatiser des tâches techniques  
-- Expérimentations sur des interfaces et automatisations adaptées à des projets industriels  
-- Initiatives et réflexions autour du traitement des déchets et de l'efficacité énergétique
+- Recherche de solutions simples et robustes à des problématiques complexes
 
 ---
 
@@ -45,14 +36,6 @@ Mon GitHub : [github.com/Louis-Verbrugge](https://github.com/Louis-Verbrugge)
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Louis-Verbrugge&theme=onedark&no-bg=true&no-frame=true&margin-w=15" />
-</div>
-
----
-
-### Activité récente
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Louis-Verbrugge&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ---
