@@ -50,9 +50,3 @@ Mon GitHub : [github.com/Louis-Verbrugge](https://github.com/Louis-Verbrugge)
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
----
-
-<div align="center">
-  <i>Allier rigueur technique et curiosité pour concevoir des solutions durables.</i>
-</div>
