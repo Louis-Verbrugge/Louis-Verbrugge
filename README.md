@@ -32,14 +32,6 @@ Mon GitHub : [github.com/Louis-Verbrugge](https://github.com/Louis-Verbrugge)
 
 ---
 
-### Performances GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Louis-Verbrugge&theme=onedark&no-bg=true&no-frame=true&margin-w=15" />
-</div>
-
----
-
 ### Me contacter
 
 <p align="center">
